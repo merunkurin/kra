@@ -1,2 +1,1 @@
-# kra
-deneme amaçlı yazdıkarım
+
